@@ -1,5 +1,5 @@
 # python-it-computer-inventory
-Python: IT Asset Report Project
+Python: IT Computer Inventory Report Project
 -------------------------------------------------
 
 Project Overview:
