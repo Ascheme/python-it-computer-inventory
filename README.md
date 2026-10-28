@@ -3,22 +3,22 @@ Python: IT Asset Report Project
 -------------------------------------------------
 
 Project Overview:
-  [placeholder]
+  [Describe what the project does and its purpose.]
 
 Features:
-  [placeholder]
+  [List the main features of the program.]
 
 Requirements:
-  [placeholder]
+  [List the software or dependencies needed to run the program.]
 
-How to run it:
-  [placeholder]
+How to Run:
+  [Explain how to run the Python script.]
 
 Example Output:
-  [placeholder]
+  [Show an example of the program's output.]
 
-What I learned:
-  [placeholder]
+What I Learned:
+  [Describe the Python concepts and skills you practiced.]
 
 Future Improvements:
-  [placeholder]
+  [List features or enhancements you may add in the future.]
