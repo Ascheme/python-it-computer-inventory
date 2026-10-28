@@ -1,0 +1,21 @@
+Start
+-------
+
+Create an empty computer inventory (list)
+
+Create computer records (dictionaries)
+
+Add records to inventory (.append())
+
+Display the inventory (print)
+
+
+Count online computers
+count offline computers
+count Windows 11 computers
+
+
+Display the summary report
+
+-------
+End
